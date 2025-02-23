@@ -49,7 +49,7 @@ python zyrx.py
   - Total data transferred
 
 - **Data Export**
-  - CSV export support
+  - HTML export support
   - Detailed test results
   - Timestamp-based file naming
 
